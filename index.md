@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![试试图片](https://github.com/sunyuqian1997/rebo.github.io/blob/master/rebo%E5%B0%81%E9%9D%A2.jpg);
+![试试图片](https://github.com/sunyuqian1997/rebo.github.io/blob/master/rebo%E5%B0%81%E9%9D%A2.jpg)
 这是一段介绍这是一段介绍
 这是一段介绍这是一段介绍
 这是一段介绍这是一段介绍
